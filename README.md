@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://fb.com/pamoda.vihanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pamoda.vihanga" height="30" width="40" /></a>
 <a href="https://instagram.com/vihanga_pamod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vihanga_pamod" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vihanga-pamoda-045445279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vihanga-pamoda-045445279/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
